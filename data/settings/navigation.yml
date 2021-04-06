@@ -4,5 +4,5 @@ nav_items:
   - {label: 'Technology', path: '/technology/'}
   - {label: 'News', path: '/news'}
   - {label: 'Blog', path: '/blog'}
-  - {label: 'Login', path: '/https://eloquent-murdock-44b0db.netlify.app/'}
+  - {label: 'Login', path: '/login'}
 
